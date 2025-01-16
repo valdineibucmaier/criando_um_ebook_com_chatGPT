@@ -1,6 +1,11 @@
 # Projeto Ebook gerado por I.A.s
 Ebook criado com ferramentas de IA para entrega de projeto: Bootcamp DIO - CAIXA - IA Generativa com Microsoft Copilot
 
+Ebook ensinando novos usuários a utilizar de forma inteligente os prompts no chatGPT:
+
+[Desbloqueie o Poder dos Prompts com o ChatGPT](/desbloqueie_o_poder_dos_prompts_com_o_chat_gpt.pdf)
+
+
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Tecnologias utilizadas e prompts seguem abaixo.
 
 
